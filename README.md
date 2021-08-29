@@ -3,6 +3,8 @@
 
 
 <h1 align="center">Hi 👋, I'm Srinivasan</h1>
+
+
 <h3 align="center">Welcome to my Profile!!! </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=github&label=Profile%20views&color=0e75b6&style=flat" alt="github" /> </p>
 
@@ -10,7 +12,10 @@
 
 <p align="left"> <a href="https://twitter.com/srinivasan_offl" target="blank"><img src="https://img.shields.io/twitter/follow/twiter?logo=twitter&style=for-the-badge" alt="twiter" /></a> </p>
 
-- 🔭 I’m currently working on [amazon-clone](https://clone-718d1.web.app/)
+
+- 👨‍💻 Website at [Srinivasan](https://srinivasan-portfolio.web.app/)
+
+- 🔭 I’m currently working on [Amazon-clone](https://clone-718d1.web.app/)
 
 - 🌱 I’m currently learning **React**
 
@@ -18,15 +23,10 @@
 
 - 🤝 I’m looking for help with **Node**
 
-- 👨‍💻 All of my projects are available at [srinivasan-portfolio](https://srinivasan-portfolio.web.app/)
-
 - 💬 Ask me about **Javascript,React**
 
 - 📫 How to reach me **srini3720@gmail.com**
 
-- 📄 Know about my experiences [srinivasan-portfolio](https://srinivasan-portfolio.web.app/)
-
-- ⚡ Fun fact **Go with the flow**
 
 <p><img style="display: flex" align="center" src="https://github-readme-stats.vercel.app/api?username=srini3720&theme=radical&show_icons=true&locale=en" alt="github" /></p>
 
