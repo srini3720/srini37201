@@ -10,7 +10,9 @@
 
 
 
+
 <p align="left"> <a href="https://twitter.com/srinivasan_offl" target="blank"><img src="https://img.shields.io/twitter/follow/twiter?logo=twitter&style=for-the-badge" alt="twiter" /></a> </p>
+
 
 
 - 👨‍💻 Website at [Srinivasan](https://srinivasan-portfolio.web.app/)
@@ -27,8 +29,8 @@
 
 - 📫 How to reach me **srini3720@gmail.com**
 
+<p><img style="" align="center" src="https://github-readme-stats.vercel.app/api?username=srini3720&theme=radical&show_icons=true&locale=en" alt="github" /></p>
 
-<p><img style="display: flex" align="center" src="https://github-readme-stats.vercel.app/api?username=srini3720&theme=radical&show_icons=true&locale=en" alt="github" /></p>
 
 
 <h3 align="left">Connect with me:</h3>
