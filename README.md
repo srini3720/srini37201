@@ -48,9 +48,13 @@
 
 <h3>GitHub Sats:</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=srini3720&theme=radical&show_icons=true&locale=en&layout=compact" alt="github" /></p>
-
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srini3720&theme=radical" alt="github" /></p>
+<h3>Top Languages :</h3>
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=srini3720&theme=radical&show_icons=true&locale=en&layout=compact" alt="github" /></p>
+
+
 
