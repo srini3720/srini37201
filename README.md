@@ -13,7 +13,7 @@
 
 
 
-- 👨‍💻 Website at [Srinivasan](https://srinivasan-portfolio.web.app/)
+- 👨‍💻 Website at [Srinivasan-portfolio](https://srinivasan-portfolio.web.app/)
 
 - 🔭 I’m currently working on [Amazon-clone](https://clone-718d1.web.app/)
 
