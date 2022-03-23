@@ -15,7 +15,7 @@
 
 - 👨‍💻 Website at [Srinivasan-portfolio](https://srinivasan-portfolio.web.app/)
 
-- 🔭 I’m currently working on [OntoBorn Teachnology](https://www.ontoborn.com/)
+- 🔭 I’m currently working in [OntoBorn Teachnology](https://www.ontoborn.com/)
 
 - 🌱 I’m currently learning **Angular**
 
