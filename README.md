@@ -48,7 +48,7 @@
 
 
  <h3>Projects :</h3>
-  <p align="left"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=srini3720&repo=RentalsApp&theme=radical" alt="github" /> </p>
+  <p align="left"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=srini3720&repo=Blockchain-Email&theme=radical" alt="github" /> </p>
 
   
 
