@@ -18,11 +18,9 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 👯 I’m looking to collaborate on **React**
+- 👯 I’m looking to collaborate on **Go lang**
 
-- 🤝 I’m looking for help with **Angular**
-
-- 💬 Ask me about **Javascript,React**
+- 💬 Ask me about **Javascript,React,Go lang,AWS,Typescript**
 
 - 📫 How to reach me **srini3720@gmail.com**
 
