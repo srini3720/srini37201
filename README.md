@@ -13,7 +13,6 @@
 
 
 
-- 👨‍💻 Website at [Srinivasan-portfolio](https://srinivasan-portfolio.web.app/)
 
 - 🔭 I’m currently working in [OntoBorn Teachnology](https://www.ontoborn.com/)
 
