@@ -27,8 +27,6 @@
 
 
 
-<p><img style="" align="center" src="https://github-readme-stats.vercel.app/api?username=srini3720&hide=contribs,issues&theme=tokyonight&show_icons=true&locale=en" alt="github" /></p>
-
 
 
 <h3 align="left">Connect with me:</h3>
@@ -45,18 +43,11 @@
 
 
  <h3>Projects :</h3>
-  <p align="left"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=srini3720&repo=Blockchain-Email&theme=radical" alt="github" /> </p>
+  <p align="left"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=srini3720&repo=11auth&theme=radical" alt="github" /> </p>
 
   
 
 
-<h3>GitHub Sats:</h3>
-
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srini3720&theme=radical" alt="github" /></p>
-<h3>Top Languages :</h3>
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=srini3720&theme=radical&show_icons=true&locale=en&layout=compact" alt="github" /></p>
