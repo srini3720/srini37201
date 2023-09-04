@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working in [OntoBorn Teachnology](https://www.ontoborn.com/)
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Solidity**
 
 - 👯 I’m looking to collaborate on **Go lang**
 
